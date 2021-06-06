@@ -1,1 +1,3 @@
-# SaloniShah-03-University_Management_System
+-> Developed a full stack application using Node and ReactJs that will facilitate the interaction between college students, the placement cell of the college and the recruiting companies.
+-> Developed two load balancers and used virtualization on the server machines to efficiently serve the streaming service to handle fault tolerance. AWS services such as EC2 instance.
+-> IAM and RouteS3 were used.
